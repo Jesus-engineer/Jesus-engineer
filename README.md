@@ -99,6 +99,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesus-engineer&bg_color=000000&color=D3D3D3&line=2234AE&point=7A7ADB&hide_border=true" alt="Jesus's Activity Graph" width="90%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesus-engineer&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+</p>
+
 ---
 
 <div id="user-content-toc">
@@ -121,9 +125,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesus-engineer&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
-</p>
 
 <p align="center">🤍 If you like my projects, please leave a ⭐ and share them!</p>
 <p align="center">Made with ❤️ by Jesus Velasquez</p>
