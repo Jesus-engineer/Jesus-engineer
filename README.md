@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
-  <img src="assets/Linux-MacOS-Windows.png" alt="Compatible platforms: Linux, macOS, Windows" style="width: 100%; max-width: 950px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.15);">
+  <img src="assets/Linux-MacOS-Windows.png" alt="Compatible platforms: Linux, macOS, Windows" style="width: 100%; max-width: 900px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
 </div>
 
 <p align="center">
