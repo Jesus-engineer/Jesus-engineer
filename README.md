@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Jesus+Velasquez;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=45&center=true&vCenter=true&height=80&width=800&lines=Heyyy!+I'm+Jesus+Velasquez;Welcome+to+my+profile!" alt="Title">
 </div>
 
 <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
-  <img src="assets/Linux-MacOS-Windows.png" alt="Compatible platforms: Linux, macOS, Windows" style="width: 100%; max-width: 950px; height: 180px; object-fit: cover; object-position: center; border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.15);">
+  <img src="assets/Linux-MacOS-Windows.png" alt="Compatible platforms: Linux, macOS, Windows" style="width: 100%; max-width: 900px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Systems Engineering student-0f172a?style=for-the-badge" alt="Role Systems Engineering student">
+  <img src="https://img.shields.io/badge/Role-Systems_Engineering_student-0f172a?style=for-the-badge" alt="Role Systems Engineering student">
   <img src="https://img.shields.io/badge/Focus-Web_Dev-1f2937?style=for-the-badge" alt="Focus Web Dev">
   <img src="https://img.shields.io/badge/Focus-API_Integration-111827?style=for-the-badge" alt="Focus API Integration">
 </p>
@@ -19,7 +19,7 @@
       <p>👋 Hi! I'm <strong>Jesus Velasquez</strong>, a <strong>Systems Engineering student</strong> and a passionate <strong>Software Developer</strong>. I love creating projects, learning about <strong>web technologies</strong>, and exploring <strong>Artificial Intelligence</strong> to build innovative solutions that solve real-world problems.</p>
       <h3>💡 What I do</h3>
       <ul>
-        <li>💻 <strong>Skills in:</strong> C, C++, Java,pyhton,HTML, CSS, React</li>
+        <li>💻 <strong>Skills in:</strong> C, C++, Java, Python, HTML, CSS, React</li>
         <li>🔍 <strong>Passionate about:</strong> Web Development and API Integration</li>
       </ul>
       <h3>🚀 What I'm looking for</h3>
@@ -53,6 +53,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="60">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60">
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="60">
     </td>
     <td align="center" width="33%">
       <strong>Backend</strong><br>
@@ -83,6 +84,22 @@
 
 ---
 
+<h2 align="center">⚙️ GitHub Analytics & Progress</h2>
+
+<p align="center">
+  <a href="https://github.com/Jesus-engineer" target="_blank">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jesus-engineer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Jesus's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Jesus-engineer" target="_blank">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jesus-engineer&layout=compact&langs_count=8&theme=algolia" alt="Jesus's Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesus-engineer&bg_color=000000&color=D3D3D3&line=2234AE&point=7A7ADB&hide_border=true" alt="Jesus's Activity Graph" width="90%" />
+</p>
+
+---
 
 <div id="user-content-toc">
   <ul align="center">
@@ -91,9 +108,17 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jesús-david-velásquez-5048b6369/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /></a>
-  <a href="https://twitter.com/TU_TWITTER" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50" /></a> 
-  <a href="https://www.instagram.com/TU_INSTAGRAM/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/jesús-david-velásquez-5048b6369/" target="_blank">
+       <img align="center" src="https://github.com/user-attachments/assets/ff784964-d752-4016-ba10-b8c5d4d94fe8" alt="LinkedIn" height="50" width="50" />
+  </a>
+  
+  <a href="mailto:jvelasquez.dev@gmail.com" target="_blank">
+       <img align="center" src="https://github.com/user-attachments/assets/8f84190d-95fd-458c-affd-c66f0956a086" alt="Email" height="50" width="50" />
+  </a>
+
+  <a href="https://github.com/Jesus-engineer/My-Resume-Web" target="_blank">
+    <img align="center" src="https://github.com/user-attachments/assets/c3a815b8-3933-471a-ab5c-260469e9a68b" alt="Portfolio" height="50" width="50" />
+  </a>
 </p>
 
 <p align="center">
