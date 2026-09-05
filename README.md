@@ -19,7 +19,7 @@
       <p>👋 Hi! I'm <strong>Jesus Velasquez</strong>, a <strong>Systems Engineering student</strong> and a passionate <strong>Software Developer</strong>. I love creating projects, learning about <strong>web technologies</strong>, and exploring <strong>Artificial Intelligence</strong> to build innovative solutions that solve real-world problems.</p>
       <h3>💡 What I do</h3>
       <ul>
-        <li>💻 <strong>Skills in:</strong> C, C++, Java, Python, HTML, CSS, React</li>
+        <li>💻 <strong>Skills in:</strong>  C++, Python, HTML, CSS, React</li>
         <li>🔍 <strong>Passionate about:</strong> Web Development and API Integration</li>
       </ul>
       <h3>🚀 What I'm looking for</h3>
@@ -43,21 +43,17 @@
     <td align="center" width="33%">
       <strong>Languages</strong><br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60">
       <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="60">
     </td>
     <td align="center" width="33%">
       <strong>Frontend</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="60">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="60">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60">
       <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="60">
       <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="60">
     </td>
     <td align="center" width="33%">
       <strong>Backend</strong><br>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="60">
     </td>
   </tr>
   <tr>
