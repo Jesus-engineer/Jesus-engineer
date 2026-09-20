@@ -103,7 +103,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jesús-david-velásquez-5048b6369/" target="_blank">
+  <a href="www.linkedin.com/in/jesus-david-velasquez-mercado-dev" target="_blank">
        <img align="center" src="https://github.com/user-attachments/assets/ff784964-d752-4016-ba10-b8c5d4d94fe8" alt="LinkedIn" height="50" width="50" />
   </a>
   
